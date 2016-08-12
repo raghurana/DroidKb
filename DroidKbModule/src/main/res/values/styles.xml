@@ -11,7 +11,7 @@
     </style>
 
     <style name="DroidkbAppTheme" parent="AppTheme">
-        <item name="colorAccent">@color/redColor</item>
+
     </style>
 
 
