@@ -3,7 +3,7 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/DroidKB.iml" filepath="$PROJECT_DIR$/DroidKB.iml" />
-      <module fileurl="file://$PROJECT_DIR$/DroidKbModule/app.iml" filepath="$PROJECT_DIR$/DroidKbModule/app.iml" />
+      <module fileurl="file://$PROJECT_DIR$/DroidKbModule/DroidKbModule.iml" filepath="$PROJECT_DIR$/DroidKbModule/DroidKbModule.iml" />
     </modules>
   </component>
 </project>
