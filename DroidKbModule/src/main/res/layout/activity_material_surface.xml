@@ -23,6 +23,7 @@
         android:src="@drawable/ic_add_black_24dp"
         android:clickable="true"
         android:tint="@android:color/white"
+        android:background="@drawable/oval_background"
         />
 
     <View
@@ -46,6 +47,7 @@
         android:clickable="true"
         android:tint="@android:color/white"
         android:elevation="6dp"
+        android:background="@drawable/oval_background"
         />
 
     <View
