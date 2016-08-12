@@ -2,12 +2,8 @@ package com.raghurana.droidkb;
 
 import android.content.Intent;
 import android.databinding.DataBindingUtil;
-import android.databinding.ViewDataBinding;
-import android.databinding.tool.Binding;
-import android.support.v7.app.AppCompatActivity;
 import android.os.Bundle;
-import android.util.Log;
-import android.view.View;
+import android.support.v7.app.AppCompatActivity;
 
 import com.raghurana.droidkb.databinding.ActivityMainBinding;
 

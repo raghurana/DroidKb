@@ -22,6 +22,26 @@
         android:layout_margin="10dp"
         android:src="@drawable/ic_add_black_24dp"
         android:clickable="true"
+        android:tint="@android:color/white"
+        />
+
+    <View
+        android:layout_width="match_parent"
+        android:layout_height="1dp"
+        android:background="@android:color/black" />
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_margin="10dp"
+        android:textStyle="bold"
+        android:text="Manual FAB below" />
+
+    <ImageButton
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:src="@drawable/ic_add_black_24dp"
+        android:background="@color/redColor"
         />
 
     <View
