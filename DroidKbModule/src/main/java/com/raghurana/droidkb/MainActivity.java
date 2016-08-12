@@ -18,7 +18,7 @@ public class MainActivity extends AppCompatActivity {
     }
 
     public void onMaterialDesignSurfaceClick() {
-        Intent intent = new Intent(this, MaterialSurface.class);
+        Intent intent = new Intent(this, MaterialFabButtons.class);
         startActivity(intent);
     }
 
